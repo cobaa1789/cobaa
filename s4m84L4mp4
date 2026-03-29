@@ -85,7 +85,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Product",
+  "@type": "WebPage",
   "name": "SAMBALTOTO 🎰 Industri Situs Slot Gacor Ternama di Indonesia dengan Sistem Modern",
   "image": "https://ampjesamin.sgp1.cdn.digitaloceanspaces.com/LP%20SambalToto/LP%20Sambaltoto%20amp4.png",
   "description": "SAMBALTOTO merupakan bagian dari industri situs slot gacor ternama di Indonesia yang menghadirkan sistem modern serta menyediakan link resmi login slot gacor berlisensi, akses stabil, tampilan responsif untuk pengalaman bermain yang lebih nyaman setiap hari dan didukung server super cepat.",
@@ -93,8 +93,8 @@
     "@type": "Brand",
     "name": "SAMBALTOTO"
   },
-  "sku": "SAMBALTOTO SLOT",
-  "mpn": "SAMBALTOTO LOGIN",
+  "sku": "SAMBALTOTO-001",
+  "mpn": "SAMBALTOTO-LOGIN",
   "url": "https://iselfbd.com/blog",
   "offers": {
     "@type": "Offer",
@@ -104,6 +104,28 @@
     "priceValidUntil": "2025-12-25",
     "itemCondition": "https://schema.org/NewCondition",
     "availability": "https://schema.org/InStock",
+
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingRate": {
+        "@type": "MonetaryAmount",
+        "value": "0",
+        "currency": "USD"
+  },
+     "shippingDestination": {
+      "@type": "DefinedRegion",
+      "addressCountry": "ID"
+     }
+  },
+   "hasMerchantReturnPolicy": {
+    "@type": "MerchantReturnPolicy",
+    "applicableCountry": "ID",
+    "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+    "merchantReturnDays": 7,
+    "returnMethod": "https://schema.org/ReturnByMail",
+    "returnFees": "https://schema.org/FreeReturn"
+  },  
+
     "seller": {
       "@type": "Organization",
       "name": "SAMBALTOTO"
